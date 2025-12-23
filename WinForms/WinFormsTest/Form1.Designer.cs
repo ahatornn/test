@@ -35,6 +35,7 @@ partial class Form1
         // 
         AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
         AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+        BackColor = System.Drawing.Color.Red;
         ClientSize = new System.Drawing.Size(800, 450);
         Text = "Это главная форма";
         ResumeLayout(false);
