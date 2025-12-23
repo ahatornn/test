@@ -416,3 +416,15 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+
+# JetBrains Rider / IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Rider specific files (if they appear)
+*.csproj.user
+*.sln.DotSettings
+*.DotSettings.user
